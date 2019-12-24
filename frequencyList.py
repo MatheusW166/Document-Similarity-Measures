@@ -31,7 +31,7 @@ class FrequencyList:
         self.documentList.append(docX)
         self.vocabulary=self.vocabulary|set(docX)
 
-    #Builds the frequency vector of each document and puts it in a list
+    #Builds the frequency vector of each document and puts it into a list
     def buildFrequenciesList(self):
         fr_vector=[]
         frequencyList=[]
