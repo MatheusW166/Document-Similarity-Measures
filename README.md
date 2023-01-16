@@ -6,6 +6,15 @@ Implementação feita em trabalho de pesquisa na universidade, com o objetivo de
 
 O algoritmo realiza a conversão do documento em um vetor binário de frequência de termos, que é usado como entrada para as funções que fazem o cálculo da similaridade.
 
+## Tecnologias utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+### Pacotes utilizados
+
+ - [Natural Language Toolkit](https://www.nltk.org/)
+ - [String](https://www.digitalocean.com/community/tutorials/python-string-module)
+
 ## Uso
 ### Requisitos
 - Python e pip
@@ -40,14 +49,6 @@ texto2 = "Aprendi Bag of Words perguntando no fórum da Alura"
 | `texto1`       | 1  | 1      | 1  | 1   | 1  | 1     | 1        | 1   | 1  | 1     | 0       | 0           | 0  | 0     |
 | `texto2`       | 0  | 0      | 0  | 0   | 1  | 1     | 0        | 1   | 1  | 1     | 1       | 1           | 1  | 1     |
 
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-### Pacotes utilizados
-
- - [Natural Language Toolkit](https://www.nltk.org/)
- - [String](https://www.digitalocean.com/community/tutorials/python-string-module)
 ## Referência
 
  - [Implementação do Modelo Matemático Pairwise Document Similarity Meassure (PDSM)](https://pt.overleaf.com/read/txfdmrjbcnqx)
