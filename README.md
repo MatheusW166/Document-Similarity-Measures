@@ -21,10 +21,19 @@ O algoritmo realiza a conversão do documento em um vetor binário de frequênci
 ### Pacotes
 - [NLTK (Natural Language Toolkit)](https://www.nltk.org/)
 ### Instalação (linux)
-- Abra o terminal
-- Clone o repositório com o comando `git clone https://github.com/MatheusW166/document-similarity-measures.git`
-- Instale o pacote NTLK com o comando `pip install nltk`
-- Teste a instalação, digite `python` e então `import nltk`
+- Clonando repositório
+```bash
+$ git clone https://github.com/MatheusW166/document-similarity-measures.git
+```
+- Instalando NLTK
+```bash
+$ pip install nltk
+```
+- Testando instalação
+```bash
+$ python
+>>> import nltk
+```
 
 Para ver o guia completo para Windows e Linux, acesse [Installing NLTK](https://www.nltk.org/install.html)
 
