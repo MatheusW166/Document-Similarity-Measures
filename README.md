@@ -8,7 +8,7 @@ O algoritmo realiza a conversão do documento em um vetor binário de frequênci
 
 ## Teoria aplicada
 ### Bag of Words (conversão de texto em vetor)
-Bag of words, de forma simplificada, é uma lista que contem todas as palavras que estão nos textos de maneira não repetida.
+Bag of words, de forma simplificada, é uma lista que contém todas as palavras que estão nos textos de maneira não repetida.
 
 Exemplo:
 ```python
