@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MatheusW166/document-similarity-measures/blob/main/LICENCE)
+
 # Medidas de similaridade entre documentos
 
 Implementação feita em trabalho de pesquisa na universidade, com o objetivo de testar e avaliar o desempenho da medida proposta no artigo [PDSM](https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-018-0163-2.pdf) frente a outras 7 medidas.
