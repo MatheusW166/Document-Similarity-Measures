@@ -12,11 +12,6 @@ O algoritmo realiza a conversão do documento em um vetor binário de frequênci
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
-### Pacotes utilizados
-
- - [Natural Language Toolkit](https://www.nltk.org/)
- - [String](https://www.digitalocean.com/community/tutorials/python-string-module)
-
 ## <span id="use">✅ Uso</span>
 ### Requisitos
 - Python e pip
